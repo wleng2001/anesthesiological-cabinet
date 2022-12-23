@@ -7,5 +7,5 @@ It's consist of:
 * four wheel with bearings (it can rotate in 360°)
 * runner for drawer
 
-![It's photo of anesthesiological cabinet rendered in SolidWorks](https://github.com/wleng2001/anesthesiological-cabinet/blob/main/prototyp%20II.JPG)
+![It's photo of anesthesiological cabinet rendered in SolidWorks](https://github.com/wleng2001/anesthesiological-cabinet/blob/main/prototyp%20III.JPG)
 
