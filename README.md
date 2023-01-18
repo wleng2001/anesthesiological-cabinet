@@ -19,6 +19,6 @@ What means normalized names of files:
 - anc-1-0001-0003-0002 It's fixing of drawer
 - anc-1-0001-0003-0004 It's runner assembly
 
-![wheel assembly exploded view](https://github.com/wleng2001/anesthesiological-cabinet/blob/main/wózek/anc-1-0001-0001.avi)
-
+It's video how is build wheel.
+https://user-images.githubusercontent.com/112073988/213304619-0c652ea8-2bb3-4612-89be-4b4c486b50eb.mp4
 
