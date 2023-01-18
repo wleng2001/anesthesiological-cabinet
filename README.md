@@ -12,14 +12,14 @@ It's consist of:
 What means normalized names of files:
 * anc-1 it's main assembly
 * anc-1-0001-0001 It's wheel assembly
-- anc-1-0001-0001-0001 It's bearing of the wheel assembly
+	- anc-1-0001-0001-0001 It's bearing of the wheel assembly
 * anc-1-0001-0002 It's rack assembly
 * anc-1-0001-0003 it's drawer with runner assembly
-- anc-1-0001-0003-0001 It's drawer
-- anc-1-0001-0003-0002 It's fixing of drawer
-- anc-1-0001-0003-0004 It's runner assembly
+	- anc-1-0001-0003-0001 It's drawer
+	- anc-1-0001-0003-0002 It's fixing of drawer
+	- anc-1-0001-0003-0004 It's runner assembly
 
-It's video how is build wheel.
+It's video, where you can see how is build wheel:
 https://user-images.githubusercontent.com/112073988/213305082-b9180d91-3ac0-4ed8-8724-1e6955fea45c.mp4
 
 
