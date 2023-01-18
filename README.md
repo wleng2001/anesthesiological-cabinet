@@ -12,11 +12,11 @@ It's consist of:
 What means normalized names of files:
 * anc-1 it's main assembly
 * anc-1-0001-0001 It's wheel assembly
-<p>- anc-1-0001-0001-0001 It's bearing of the wheel assembly</p>
+- anc-1-0001-0001-0001 It's bearing of the wheel assembly
 * anc-1-0001-0002 It's rack assembly
 * anc-1-0001-0003 it's drawer with runner assembly
-<p>- anc-1-0001-0003-0001 It's drawer</p>
-<p>- anc-1-0001-0003-0002 It's fixing of drawer</p>
-<p>- anc-1-0001-0003-0004 It's runner assembly</p>
+- anc-1-0001-0003-0001 It's drawer
+- anc-1-0001-0003-0002 It's fixing of drawer
+- anc-1-0001-0003-0004 It's runner assembly
 
 
