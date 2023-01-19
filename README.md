@@ -13,6 +13,12 @@ What means normalized names of files:
 * anc-1 it's main assembly
 * anc-1-0001-0001 It's wheel assembly
 	- anc-1-0001-0001-0001 It's bearing of the wheel assembly
+	- anc-1-0001-0001-0002 It's fork fixing
+	- anc-1-0001-0001-0003 It's rubbery pad
+	- anc-1-0001-0001-0004 It's fork
+	- anc-1-0001-0001-0005 It's special screw for wheel
+	- anc-1-0001-0001-0006 It's wheel
+	- anc-1-0001-0001-0007 It's tyre
 * anc-1-0001-0002 It's rack assembly
 * anc-1-0001-0003 it's drawer with runner assembly
 	- anc-1-0001-0003-0001 It's drawer
