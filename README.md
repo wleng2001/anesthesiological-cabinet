@@ -7,7 +7,7 @@ It's consist of:
 * four wheel with bearings (it can rotate in 360°)
 * runner for drawer
 
-![It's photo of anesthesiological cabinet rendered in SolidWorks](https://github.com/wleng2001/anesthesiological-cabinet/blob/main/prototyp%20III.JPG)
+![It's photo of anesthesiological cabinet rendered in SolidWorks](https://github.com/wleng2001/anesthesiological-cabinet/blob/main/prototyp%20IV.JPG)
 
 What means normalized names of files:
 * anc-1 it's main assembly
