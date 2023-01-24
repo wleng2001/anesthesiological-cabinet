@@ -23,7 +23,9 @@ What means normalized names of files:
 * anc-1-0001-0003 it's drawer with runner assembly
 	- anc-1-0001-0003-0001 It's drawer
 	- anc-1-0001-0003-0002 It's fixing of drawer
+	- anc-1-0001-0003-0003 It's rivet which fix runner to fixing of drawer
 	- anc-1-0001-0003-0004 It's runner assembly
+	- anc-1-0001-0003-0005 It's rivet which fix drawer to runner
 * anc-1-0001-0004 It's corpus of cabinet
 * anc-1-0001-0005 It's rivets, which fits drawer with runner to corpus.
 * anc-1-0001-0006 It's rivets, which fits rack to corpus.
