@@ -34,6 +34,6 @@ It's video, where you can see how is build wheel:
 https://user-images.githubusercontent.com/112073988/213305082-b9180d91-3ac0-4ed8-8724-1e6955fea45c.mp4
 
 In the technical drawing below you can see main assembly.
-![It's technical drawing of anesthesiological cabinet created in SolidWorks](https://github.com/wleng2001/anesthesiological-cabinet/blob/main/technical\ drawing/anc-1.JPG)
+![It's technical drawing of anesthesiological cabinet created in SolidWorks](https://github.com/wleng2001/anesthesiological-cabinet/blob/main/technical%20drawing/anc-1.JPG)
 
 
