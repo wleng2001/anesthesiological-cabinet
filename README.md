@@ -29,6 +29,7 @@ What means normalized names of files:
 * anc-1-0001-0004 It's corpus of cabinet
 * anc-1-0001-0005 It's rivets, which fits drawer with runner to corpus.
 * anc-1-0001-0006 It's rivets, which fits rack to corpus.
+* anc-1-0001-0007 It's screw cover.
 
 It's video, where you can see how is build wheel:
 https://user-images.githubusercontent.com/112073988/213305082-b9180d91-3ac0-4ed8-8724-1e6955fea45c.mp4
